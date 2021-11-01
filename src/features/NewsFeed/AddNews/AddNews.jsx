@@ -32,6 +32,7 @@ const AddNews = ({isVisible, setIsVisible : handleIsVisible, tags}) => {
 
             feed.push(feedObj);
             localStorage.setItem('feed_data', JSON.stringify(feed));
+            window.location.reload();
         }
     }
 
