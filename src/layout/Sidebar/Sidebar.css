@@ -1,0 +1,20 @@
+.container {
+  margin-left: 10px;
+}
+
+.card {
+  width: 25%;
+  border: #16ac87;
+  border-radius: 10px;
+  background-color: #fff;
+  border-style: solid;
+}
+
+span {
+  color: #484c4b;
+}
+
+hr {
+  width: 17%;
+  margin-left: 3%;
+}
